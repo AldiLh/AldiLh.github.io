@@ -1,0 +1,21 @@
+html {background-color:rgb(249, 236, 255);
+}
+
+h1{
+    color: rgb(91, 0, 133);
+    font-size: 25px;
+    font-family: 'Lora', serif;
+
+}
+
+.datos {
+    color: black;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;  
+}
+
+.volver{
+    font-size: 20px;
+}
+
+
